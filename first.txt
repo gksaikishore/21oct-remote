@@ -1,2 +1,0 @@
-First file in root
-Second line in first file
